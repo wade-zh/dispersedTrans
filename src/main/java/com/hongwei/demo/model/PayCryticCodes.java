@@ -17,4 +17,8 @@ public enum PayCryticCodes {
      * 余额不足
      */
     E0003,
+    /**
+     * 事务回滚
+     */
+    E0004
 }
